@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cybersecurity projects, research, and discussions that aim to enhance knowledge and practical skills.
 - 📫 How to reach me goushik25803@gmail.com
 - 😄 Pronouns:He/Him
-- ⚡ Fun fact: Ilove solving puzzles and riddles, which comes in handy for thinking like a hacker!
+- ⚡ Fun fact: I love solving puzzles and riddles, which comes in handy for thinking like a hacker!
 
 <!---
 GOUSHIK-T/GOUSHIK-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
